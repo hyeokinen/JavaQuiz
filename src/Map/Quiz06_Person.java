@@ -20,4 +20,14 @@ public class Quiz06_Person {
     public void setBirth(int birth) {
         this.birth = birth;
     }
+
+    @Override
+    public String toString() {
+        return "Quiz06_Person{" +
+                "name='" + name + '\'' +
+                ", birth=" + birth +
+                '}';
+    }
 }
+
+

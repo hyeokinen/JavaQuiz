@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b215427e-3662-44cc-beb8-439d80fbd5d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map/Quiz01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map/Quiz02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map/Quiz03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map/Quiz04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map/Quiz05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map/Quiz06_Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map/Quiz06_PersonTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Map/Quiz06_Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Map/Quiz06_Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Map/Quiz06_PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Map/Quiz06_PersonTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "copyright"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,6 +64,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Map/Quiz06_PersonTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

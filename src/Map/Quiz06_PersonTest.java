@@ -9,24 +9,20 @@ public class Quiz06_PersonTest {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
+        List<Quiz06_Person> personList = new ArrayList<>();
 
         while (true){
             System.out.println("1:입력 2:출력 3:삭제 4:종료");
             int select = scan.nextInt();
 
 
-            List<Quiz06_Person> personList = new ArrayList<>();
-
             if(select == 1){
+                Quiz06_Person person = new Quiz06_Person();
 
                 System.out.println("이름을 입력하세요.");
-                Quiz06_Person person = new Quiz06_Person();
                 person.setName(scan.next());
-
-
                 System.out.println("생년월일을 입력하세요.");
                 person.setBirth(scan.nextInt());
-
                 boolean test = personList.add(person);
                 System.out.println(test ? "입력성공" : "입력실패");
 
@@ -41,6 +37,7 @@ public class Quiz06_PersonTest {
 //                System.out.println("이름: " + person.getName()+ " 생일: " + person.getBirth());
                 System.out.println(person);
             }
+
             if(select == 3){
 
             }
