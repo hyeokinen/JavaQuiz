@@ -13,7 +13,7 @@ public class MarketTest {
         market.read();
         market.updatePrice("가방1", 300);
         market.read();
-        market.updateState("가방1", "판매완료");
+//        market.updateState("가방1", "판매완료");
         market.read();
         market.delete("가방1");
         market.read();
